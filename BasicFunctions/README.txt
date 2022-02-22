@@ -1,0 +1,1 @@
+Contains files that are a rewriting of some built-in Haskell functions.
